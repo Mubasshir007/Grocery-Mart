@@ -59,3 +59,28 @@ Notes
 The cart and favorites are stored locally using SharedPreferences and are retained between app restarts.
 
 No backend is connected; data is static and hardcoded.
+
+
+### Screenshots 
+You can add screenshots here showing:
+
+Splash screen
+![alt text](<splash screen.png>)
+
+Home page
+![alt text](shop.png)
+
+Category view
+![alt text](explore.png)
+
+Product view
+![alt text](product.png)
+
+Product detail
+![alt text](product_detail.png)
+
+Cart page
+![alt text](cart_screen.png)
+
+Favorites
+![alt text](favorite_screen.png)
